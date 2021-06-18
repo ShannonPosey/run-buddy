@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Shannon Posey
 
-### &copy;2019 RUn Buddy, Inc
+### &copy;2019 Run Buddy, Inc
