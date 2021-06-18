@@ -4,7 +4,7 @@
 A website that offers fitness training services
 
 ## Build With
-* HTML theohraosihfanlewjiorjsflkajdfoiuasdjraklsdjfoiasudf
+* HTML 
 * CSS
 
 ## Website
