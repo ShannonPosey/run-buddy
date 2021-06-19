@@ -14,9 +14,8 @@ header{
     background-color: #39a6b2;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
-
-/******* Stop at 2.2.4 ******/
 
 header h1{
     font-weight: bold;
