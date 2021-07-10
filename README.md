@@ -1,7 +1,5 @@
 # Run Buddy, Inc
 
-# Run Buddy
-
 This project is about a company that matches runners with personal trainers.
 
 ## Description
@@ -10,7 +8,7 @@ Run buddy(a fictitious company) is launching a new landing page to attract more 
 HTML
 CSS
 
-![run buddy demo](./assets/images.run-buddy.png)
+![run buddy demo](./assets/images/run-buddy.png)
 
 ### Website
 https://shannonposey.github.io/run-buddy/
